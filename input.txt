@@ -1,0 +1,13 @@
+6
+A B C D E F
+6
+FC - BF
+- C -
+- - D
+E A -
+A - BF
+- - -
+A
+1
+F
+
